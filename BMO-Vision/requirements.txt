@@ -1,0 +1,5 @@
+opencv-python
+psycopg2-binary
+numpy
+Pillow
+matplotlib

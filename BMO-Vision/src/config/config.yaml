@@ -1,0 +1,19 @@
+database:
+  host: localhost
+  port: 5432
+  user: your_username
+  password: your_password
+  dbname: bmo_vision
+
+camera:
+  width: 640
+  height: 480
+  fps: 30
+
+vision:
+  face_detection:
+    enabled: true
+    model_path: "path/to/face_detection_model"
+  object_detection:
+    enabled: true
+    model_path: "path/to/object_detection_model"
