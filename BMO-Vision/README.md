@@ -1,7 +1,7 @@
 # BMO Vision Project
 
 ## Overview
-BMO Vision is a computer vision application designed to perform facial and object recognition using advanced algorithms. The application leverages OpenCV for image processing and integrates with a database for storing recognition data.
+BMO Vision is a computer vision application designed to perform facial and object recognition using advanced algorithms. The application leverages OpenCV for image processing and integrates with a database for storing recognition data. (BMO ChatBot AI)
 
 ## Features
 - Real-time facial recognition
@@ -14,6 +14,12 @@ BMO Vision is a computer vision application designed to perform facial and objec
 - OpenCV
 - psycopg2-binary
 - YAML for configuration management
+
+
+## Hardware
+- Raspberry Pi 3B
+- SolidWorks Modelled Case
+- LED Screen
 
 ## Getting Started
 
