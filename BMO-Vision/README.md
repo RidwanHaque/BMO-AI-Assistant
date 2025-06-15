@@ -19,7 +19,7 @@ BMO Vision is a computer vision application designed to perform facial and objec
 ## Hardware
 - Raspberry Pi 3B
 - SolidWorks Modelled Case
-- LED Screen
+- LED Screen (FOR BMO face)
 
 ## Getting Started
 
