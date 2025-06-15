@@ -25,7 +25,7 @@ BMO Vision is a computer vision application designed to perform facial and objec
 
 ### Prerequisites
 - Python 3.x
-- pip (Python package installer)
+- pip (Python package installer) status
 
 ### Installation
 1. Clone the repository:
